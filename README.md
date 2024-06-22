@@ -37,7 +37,7 @@ I'm a passionate Full Stack Web Developer with a strong command of the MERN stac
 
 ## 🛠️ Projects
 
-### [Project 1: MERN Stack E-commerce App]([https](https://jatra.onrender.com/listings)
+### [Project 1: Airbnb Clone](https://jatra.onrender.com/listings)
 - **Description:** A full-featured e-commerce application built with the MERN stack.
 - **Features:** User authentication, product management, shopping cart, order management.
 - **Tech Stack:** MongoDB, Express, React, Node.js
