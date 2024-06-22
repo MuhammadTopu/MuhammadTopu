@@ -25,21 +25,22 @@ I'm a passionate Full Stack Web Developer with a strong command of the MERN stac
 ## 🛠️ Projects
 
 ### [Project 1: MERN Stack E-commerce App]([https](https://jatra.onrender.com/listings):)
-![Project Image](https://yourimageurl.com/project1.png)
+![Project Image](https://media.licdn.com/dms/image/D5622AQGbfSsvUMlDyg/feedshare-shrink_1280/0/1699631561907?e=1721865600&v=beta&t=2oDigVAmzfSgbaaE9nTXrDSmNZGAHvBf1s7e9FFfLbw)
 - **Description:** A full-featured e-commerce application built with the MERN stack.
 - **Features:** User authentication, product management, shopping cart, order management.
 - **Tech Stack:** MongoDB, Express, React, Node.js
 
 ## 📝 Blog Posts
-- [Understanding Data Structures and Algorithms](https://yourblogurl.com/dsa-post)
-- [Building Scalable Web Applications with MERN Stack](https://yourblogurl.com/mern-post)
+- [My Leetcode profile](https://leetcode.com/Kamran_Hossain_Topu/)
+- [Understanding Data Structures and Algorithms](https://leetcode.com/problems/maximum-subarray/solutions/5056886/kadanes-algorithm-on/)
+- [Building Scalable Web Applications with MERN Stack](https://www.linkedin.com/posts/kamranhossaintopu_apnacollege-fullstackwebdevelopment-activity-7128771470201131008-eQYY?utm_source=share&utm_medium=member_desktop)
 
 ## 📫 Contact Me
 
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/kamranhossaintopu/)
 - **Email:** hossainarman953@gmail.com
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepositoryname)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=MuhammmadTopu.Simon-Game)
 
 ---
 
