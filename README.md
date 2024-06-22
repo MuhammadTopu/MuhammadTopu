@@ -1,1 +1,3 @@
 # This is Kamran Hossain Topu 
+I am a MERN Stack Web-Developer ...
+Besides I have a strong grip on DSA with JAVA
