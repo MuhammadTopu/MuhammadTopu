@@ -41,5 +41,5 @@ I'm a passionate Full Stack Web Developer with a strong command of the MERN stac
 
 ---
 
-*This README was generated using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).*
+//This README was generated using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).*
 
