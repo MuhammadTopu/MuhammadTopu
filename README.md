@@ -49,7 +49,7 @@ I'm a passionate Full Stack Web Developer with a strong command of the MERN stac
 
 ## 📫 Contact Me
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/kamranhossaintopu/)
+- **LinkedIn:** [Kamran Hossain Topu](https://www.linkedin.com/in/kamranhossaintopu/)
 - **Email:** hossainarman953@gmail.com
 
 ---
