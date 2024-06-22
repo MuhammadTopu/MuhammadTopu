@@ -42,6 +42,8 @@ I'm a passionate Full Stack Web Developer with a strong command of the MERN stac
 - **Features:** User authentication, product management, shopping cart, order management.
 - **Tech Stack:** MongoDB, Express, React, Node.js
 
+- There are few many projests you can check my repository.
+
 ## 📝 Blog Posts
 - [My Leetcode profile](https://leetcode.com/Kamran_Hossain_Topu/)
 - [Understanding Data Structures and Algorithms](https://leetcode.com/problems/maximum-subarray/solutions/5056886/kadanes-algorithm-on/)
