@@ -1,6 +1,6 @@
 # Hi there, I'm [Kamran Hossain Topu] 👋
 
-![Profile Banner](https://yourimageurl.com/banner.png)
+![Profile Banner](https://github.com/account)
 
 I'm a passionate Full Stack Web Developer with a strong command of the MERN stack and a deep understanding of Data Structures and Algorithms.
 
