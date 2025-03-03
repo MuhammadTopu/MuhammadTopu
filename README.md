@@ -34,7 +34,7 @@ I'm a passionate Full Stack Web Developer with a strong command of the MERN stac
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&theme=radical)  
 
-![Snake animation](https://github.com/MuhammadTopu/MuhammadTopu/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## 🛠️ Projects  
