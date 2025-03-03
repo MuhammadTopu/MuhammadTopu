@@ -22,38 +22,37 @@ I'm a passionate Full Stack Web Developer with a strong command of the MERN stac
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/-DSA-282C34?style=flat-square&logo=data-structures&logoColor=61DAFB)
 
-### Also familiar with 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+### Also familiar with  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
-<!--[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&theme=radical)  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MuhammadTopu/MuhammadTopu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-## 🛠️ Projects
 
-### [Project 1: Airbnb Clone](https://jatra.onrender.com/listings)
-- **Description:** A full-featured e-commerce application built with the MERN stack.
-- **Features:** User authentication, product management, shopping cart, order management.
-- **Tech Stack:** MongoDB, Express, React, Node.js
+## 🛠️ Projects  
 
-- There are few many projests you can check my repository.
+### [Project 1: Airbnb Clone](https://jatra.onrender.com/listings)  
+- **Description:** A full-featured e-commerce application built with the MERN stack.  
+- **Features:** User authentication, product management, shopping cart, order management.  
+- **Tech Stack:** MongoDB, Express, React, Node.js  
 
-## 📝 Blog Posts
-- [My Leetcode profile](https://leetcode.com/Kamran_Hossain_Topu/)
-- [Understanding Data Structures and Algorithms](https://leetcode.com/problems/maximum-subarray/solutions/5056886/kadanes-algorithm-on/)
-- [Building Scalable Web Applications with MERN Stack](https://www.linkedin.com/posts/kamranhossaintopu_apnacollege-fullstackwebdevelopment-activity-7128771470201131008-eQYY?utm_source=share&utm_medium=member_desktop)
+🚀 *Check out more of my projects in my [GitHub repositories](https://github.com/MuhammadTopu?tab=repositories).*
 
-## 📫 Contact Me
+## 📝 Blog Posts  
+- [My Leetcode profile](https://leetcode.com/Kamran_Hossain_Topu/)  
+- [Understanding Data Structures and Algorithms](https://leetcode.com/problems/maximum-subarray/solutions/5056886/kadanes-algorithm-on/)  
+- [Building Scalable Web Applications with MERN Stack](https://www.linkedin.com/posts/kamranhossaintopu_apnacollege-fullstackwebdevelopment-activity-7128771470201131008-eQYY?utm_source=share&utm_medium=member_desktop)  
 
-- **LinkedIn:** [Kamran Hossain Topu](https://www.linkedin.com/in/kamranhossaintopu/)
-- **Email:** hossainarman953@gmail.com
+## 📫 Contact Me  
 
----
+- **LinkedIn:** [Kamran Hossain Topu](https://www.linkedin.com/in/kamranhossaintopu/)  
+- **Email:** hossainarman953@gmail.com  
