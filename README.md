@@ -34,7 +34,9 @@ I'm a passionate Full Stack Web Developer with a strong command of the MERN stac
 
 <!--[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadTopu/MuhammadTopu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ## 🛠️ Projects
 
 ### [Project 1: Airbnb Clone](https://jatra.onrender.com/listings)
