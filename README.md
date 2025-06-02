@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Hello+World!+👋;I'm+Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages
 <p>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -54,8 +54,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadTopu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&langs_count=8&theme=radical" />
   </a>
-  <br/>
-
 </div>
 
 
@@ -76,7 +74,7 @@
 - [Building Scalable APIs with NestJS](https://www.linkedin.com/posts/kamranhossaintopu_apnacollege-fullstackwebdevelopment-activity-7128771470201131008-eQYY)
 - [My LeetCode Journey](https://leetcode.com/Kamran_Hossain_Topu/)
 
-## 🤝 Let's Connect
+## Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/kamranhossaintopu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
