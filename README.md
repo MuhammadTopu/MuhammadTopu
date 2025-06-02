@@ -1,55 +1,101 @@
-# 👋 Hi, I'm Kamran Hossain Topu
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Hello+World!+👋;I'm+Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Profile Banner](https://avatars.githubusercontent.com/u/117673483?s=400&u=66da47391b7ca9d016353b163b4d4256db1ec7eb&v=4)](https://github.com/MuhammadTopu)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadTopu&label=Profile+Views&color=0e75b6&style=flat" alt="MuhammadTopu" /> 
+  <a href="https://github.com/MuhammadTopu?tab=followers">
+    <img src="https://img.shields.io/github/followers/MuhammadTopu?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
 
-Passionate Full Stack Developer specializing in MERN stack | DSA Enthusiast | Problem Solver
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/117673483?s=400&u=66da47391b7ca9d016353b163b4d4256db1ec7eb&v=4" alt="Profile" width="200" style="border-radius:50%; box-shadow: 0 0 20px #22D3EE;"/>
+</div>
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 🔥 Core Skills
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🌐 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### ⚙️ Backend & Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&theme=radical)](https://github.com/MuhammadTopu)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadTopu&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/MuhammadTopu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadTopu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&langs_count=8&theme=radical" />
+  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTopu&theme=radical" alt="MuhammadTopu" />
+</div>
 
-## 🚀 Featured Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MuhammadTopu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🌐 [Airbnb Clone](https://jatra.onrender.com/listings)
-- Full-featured accommodation booking platform
-- MERN stack implementation with user authentication
-- Responsive design with modern UI/UX
+## 🌟 Featured Projects
+
+### 🏡 [Airbnb Clone](https://jatra.onrender.com/listings)
+> A full-featured accommodation booking platform with modern UI/UX
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
 
 ### 🔍 [More Projects...](https://github.com/MuhammadTopu?tab=repositories)
 
-## 📚 Technical Writing
-- [LeetCode Solutions](https://leetcode.com/Kamran_Hossain_Topu/)
-- [Kadane's Algorithm Explained](https://leetcode.com/problems/maximum-subarray/solutions/5056886/kadanes-algorithm-on/)
-- [MERN Stack Development Insights](https://www.linkedin.com/posts/kamranhossaintopu_apnacollege-fullstackwebdevelopment-activity-7128771470201131008-eQYY)
+## 📝 Latest Blog Posts
+- [Mastering Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/solutions/5056886/kadanes-algorithm-on/)
+- [Building Scalable APIs with NestJS](https://www.linkedin.com/posts/kamranhossaintopu_apnacollege-fullstackwebdevelopment-activity-7128771470201131008-eQYY)
+- [My LeetCode Journey](https://leetcode.com/Kamran_Hossain_Topu/)
 
-## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamranhossaintopu/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossainarman953@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Kamran_Hossain_Topu/)
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamranhossaintopu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hossainarman953@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Kamran_Hossain_Topu/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/MuhammadTopu/MuhammadTopu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
