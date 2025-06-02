@@ -59,7 +59,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&langs_count=8&theme=radical" />
   </a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadTopu&theme=radical" alt="MuhammadTopu" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadTopu&theme=radical" alt="MuhammadTopu" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -95,5 +95,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/MuhammadTopu/MuhammadTopu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MuhammadTopu/MuhammadTopu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
