@@ -1,10 +1,3 @@
-//<p align="center">
- // <img src="https://komarev.com/ghpvc/?username=MuhammadTopu&label=Profile+Views&color=0e75b6&style=flat" alt="MuhammadTopu" /> 
- // <a href="https://github.com/MuhammadTopu?tab=followers">
-//    <img src="https://img.shields.io/github/followers/MuhammadTopu?label=Followers&style=social" alt="GitHub Followers">
-//  </a>
-//</p>
-
 
 
 <div align="center">
