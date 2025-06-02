@@ -55,7 +55,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&langs_count=8&theme=radical" />
   </a>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=MuhammadTopu&theme=radical" alt="MuhammadTopu" />
+
 </div>
 
 
