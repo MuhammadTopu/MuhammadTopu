@@ -1,17 +1,20 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadTopu&label=Profile+Views&color=0e75b6&style=flat" alt="MuhammadTopu" /> 
-  <a href="https://github.com/MuhammadTopu?tab=followers">
-    <img src="https://img.shields.io/github/followers/MuhammadTopu?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
+//<p align="center">
+ // <img src="https://komarev.com/ghpvc/?username=MuhammadTopu&label=Profile+Views&color=0e75b6&style=flat" alt="MuhammadTopu" /> 
+ // <a href="https://github.com/MuhammadTopu?tab=followers">
+//    <img src="https://img.shields.io/github/followers/MuhammadTopu?label=Followers&style=social" alt="GitHub Followers">
+//  </a>
+//</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Hello+World!+👋;I'm+Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
+
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/117673483?s=400&u=66da47391b7ca9d016353b163b4d4256db1ec7eb&v=4" alt="Profile" width="200" style="border-radius:50%; box-shadow: 0 0 20px #22D3EE;"/>
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Hello+World!+👋;I'm+Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
 
 ## 🚀 Tech Stack
 
