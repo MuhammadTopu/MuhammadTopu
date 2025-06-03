@@ -1,16 +1,16 @@
 name: generate snake animation
 on:
   schedule:
-    - cron: "0 0 * * *"     # Every day at midnight
-  workflow_dispatch:         # Allow manual trigger
+    - cron: "0 0 * * *"     # Runs daily at midnight
+  workflow_dispatch:         # Allows manual runs
 permissions:
-  contents: write            # Allow workflow to push changes
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3   # Use latest stable version!
+      - uses: Platane/snk@v3
         with:
           github_user_name: MuhammadTopu
           outputs: |
