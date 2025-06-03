@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Hello+World!+👋;I'm+Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" alt="Typing SVG"  style="margin-left: 15px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Hello+World!+👋;I'm+Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" alt="Typing SVG"  style="margin-left: 50px;" />
 </p>
 
 ## Tech Stack
