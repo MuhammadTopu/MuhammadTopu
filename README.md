@@ -11,38 +11,38 @@
 
 ## 🛠️ Tech Stack
 
-### 🚩 Core Languages
+### Core Languages
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python" />
 </div>
 
-### ✨ Frontend Galaxy
+ Frontend Galaxy
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" />
 </div>
 
 
-### 🪐 Backend Milky Way
+ Backend Universe
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </div>
 
-### 🛢️ Database Cosmos
+ Database Cosmos
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,prisma,postgres,mysql" />
 </div>
 
-### 🛠️ Dev Tools & Platforms
+ Dev Tools & Platforms
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
 </div>
 
-### 📱 Mobile & Cross-Platform
+ Mobile & Cross-Platform
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </div>
 
-### 💻 Desktop
+ Desktop
 <div align="center">
     <img src="https://skillicons.dev/icons?i=electron" />
 </div>
