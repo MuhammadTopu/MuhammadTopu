@@ -62,10 +62,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## <span style="background: linear-gradient(to right, #02569B, #3DDC84); color: white; padding: 3px 8px; border-radius: 4px">📱 Mobile & Cross-Platform 📱</span>
+## <span style="color: #3DDC84">Mobile & Cross-Platform</span>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
+## <span style="color: #3DDC84">Desktop</span>
+<p align="center">
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
