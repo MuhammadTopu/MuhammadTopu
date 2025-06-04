@@ -27,12 +27,12 @@ Dark Matter Core-(Backend)------------------------------------------------↴
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </div>
 
- Galactic Memory-(Databse)-------------------------------------------↴
+ Galactic Memory-(Databse)----------------------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,prisma,postgres,mysql" />
 </div>
 
- Cosmic Forge-(Dev Tools)-------------------------------↴
+ Cosmic Forge-(Dev Tools)---------------------------------------------------↴
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
 </div>
