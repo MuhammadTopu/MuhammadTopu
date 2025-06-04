@@ -11,12 +11,12 @@
 
 ##  Tech Universe
 
-### Originium-(Core Languages)-------------------------------↴
+### Originium-(Core Languages)---------------------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python" />
 </div>
 
- Starlight Realm-(Frontend)-----------------------------------------------------↴
+ Starlight Realm-(Frontend)---------------------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" />
 </div>
@@ -27,7 +27,7 @@ Dark Matter Core-(Backend)------------------------------------------------↴
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </div>
 
- Galactic Memory-(Databse)----------------------------------------------------↴
+ Galactic Memory-(Databse)---------------------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,prisma,postgres,mysql" />
 </div>
@@ -37,12 +37,12 @@ Dark Matter Core-(Backend)------------------------------------------------↴
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
 </div>
 
- Interstellar Portal-(Android)↓
+ Interstellar Portal-(Android)---------------------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </div>
 
- Orbital Station-(Desktop)↓
+ Orbital Station-(Desktop)---------------------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=electron" />
 </div>
