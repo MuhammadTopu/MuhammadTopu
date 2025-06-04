@@ -9,40 +9,40 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=500&color=22D3EE&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+✌️;I'm;Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" />
 </h1>
 
-## 🛠️ Tech Stack
+##  Tech Universe
 
 ### Core Languages
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python" />
 </div>
 
- Frontend Galaxy
+ Starlight Realm
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" />
 </div>
 
 
- Backend Universe
+Dark Matter Core
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </div>
 
- Database Cosmos
+ Galactic Memory
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,prisma,postgres,mysql" />
 </div>
 
- Dev Tools & Platforms
+ Cosmic Forge
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
 </div>
 
- Mobile & Cross-Platform
+ Interstellar Portal
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </div>
 
- Desktop
+ Orbital Station
 <div align="center">
     <img src="https://skillicons.dev/icons?i=electron" />
 </div>
