@@ -18,7 +18,8 @@
 
 ### ✨ Frontend Galaxy
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,gsap,threejs,framer_motion" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,gsap,threejs" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </div>
 
 ### 🪐 Backend Milky Way
