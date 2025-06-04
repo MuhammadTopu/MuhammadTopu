@@ -84,18 +84,10 @@
 
 
 
-## Projects
 
-### 🏡 [Airbnb Clone](https://jatra.onrender.com/listings)
-> A full-featured accommodation booking platform with modern UI/UX
+### 🔍 [Visit Repos...](https://github.com/MuhammadTopu?tab=repositories)
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)]()
-
-### 🔍 [More Projects...](https://github.com/MuhammadTopu?tab=repositories)
-
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 - [Mastering Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/solutions/5056886/kadanes-algorithm-on/)
 - [Building Scalable APIs with NestJS](https://www.linkedin.com/posts/kamranhossaintopu_apnacollege-fullstackwebdevelopment-activity-7128771470201131008-eQYY)
 - [My LeetCode Journey](https://leetcode.com/Kamran_Hossain_Topu/)
