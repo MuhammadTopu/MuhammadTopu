@@ -1,13 +1,13 @@
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/117673483?s=400&u=66da47391b7ca9d016353b163b4d4256db1ec7eb&v=4" alt="Profile" width="250" style="border-radius:50%; box-shadow: 0 0 20px #22D3EE;"/>
+</div>
 
 
 
-
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Hello+👋;I'm;Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kamran+Hossain+Topu!;" />
+</h1>
 
 
 ## Tech Stack
