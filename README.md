@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python" />
 </div>
 
- Starlight Realm-(Frontend)-----------------------------------------------------------↴
+ Starlight Realm-(Frontend)-----------------------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" />
 </div>
