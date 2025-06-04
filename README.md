@@ -22,12 +22,12 @@
 </div>
 
 
-Dark Matter Core-(Backend)----------------------------------------------------↴
+Dark Matter Core-(Backend)------------------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </div>
 
- Galactic Memory-(Databse)----------------------↴
+ Galactic Memory-(Databse)----------------------------------------↴
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,prisma,postgres,mysql" />
 </div>
