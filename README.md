@@ -36,7 +36,7 @@
 
 ### 🛠️ Dev Tools & Platforms
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,insomnia,hoppscotch,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
 </div>
 
 ### 📱 Mobile & Cross-Platform
