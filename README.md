@@ -16,33 +16,33 @@
     <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python" />
 </div>
 
- Starlight Realm
+ Starlight Realm(Frontend)
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" />
 </div>
 
 
-Dark Matter Core
+Dark Matter Core(Backend)
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </div>
 
- Galactic Memory
+ Galactic Memory(Databse)
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,prisma,postgres,mysql" />
 </div>
 
- Cosmic Forge
+ Cosmic Forge(Dev Tools)
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
 </div>
 
- Interstellar Portal
+ Interstellar Portal(Android)
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </div>
 
- Orbital Station
+ Orbital Station(Desktop)
 <div align="center">
     <img src="https://skillicons.dev/icons?i=electron" />
 </div>
