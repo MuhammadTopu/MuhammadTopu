@@ -77,9 +77,6 @@
   <a href="mailto:hossainarman953@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://leetcode.com/Kamran_Hossain_Topu/">
-     <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
 </p>
 
 
