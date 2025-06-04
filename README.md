@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=500&color=22D3EE&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+✌️;I'm;Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=500&color=15B392&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+✌️;I'm;Kamran+Hossain+Topu;Full+Stack+Web+Developer;MERN+Stack+Specialist;DSA+Enthusiast;Problem+Solver" />
 </h1>
 
 ##  Tech Universe
