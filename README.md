@@ -72,13 +72,13 @@
 ## Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/kamranhossaintopu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:hossainarman953@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://leetcode.com/Kamran_Hossain_Topu/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
 
