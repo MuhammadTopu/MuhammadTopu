@@ -73,8 +73,8 @@
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
-##GitHub Stats
 
+## GitHub Stats
 <div align="center">
   <a href="https://github.com/MuhammadTopu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadTopu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -84,7 +84,7 @@
 
 
 
-## 🌟 Featured Projects
+## Projects
 
 ### 🏡 [Airbnb Clone](https://jatra.onrender.com/listings)
 > A full-featured accommodation booking platform with modern UI/UX
