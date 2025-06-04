@@ -11,39 +11,38 @@
 
 ##  Tech Universe
 
-### Originium-(Core Languages)
-↓
+### Originium-(Core Languages)↓
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python" />
 </div>
 
- Starlight Realm-(Frontend)
+ Starlight Realm-(Frontend)↓
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" />
 </div>
 
 
-Dark Matter Core-(Backend)
+Dark Matter Core-(Backend)↓
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </div>
 
- Galactic Memory-(Databse)
+ Galactic Memory-(Databse)↓
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,prisma,postgres,mysql" />
 </div>
 
- Cosmic Forge-(Dev Tools)
+ Cosmic Forge-(Dev Tools)↓
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
 </div>
 
- Interstellar Portal-(Android)
+ Interstellar Portal-(Android)↓
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </div>
 
- Orbital Station-(Desktop)
+ Orbital Station-(Desktop)↓
 <div align="center">
     <img src="https://skillicons.dev/icons?i=electron" />
 </div>
@@ -52,7 +51,7 @@ Dark Matter Core-(Backend)
 
 
 
-## GitHub Stats
+## Stellar Analytics-(GitHub Stats)
 <div align="center">
   <a href="https://github.com/MuhammadTopu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadTopu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -65,12 +64,12 @@ Dark Matter Core-(Backend)
 
 ### 🔍 [Visit Repos...](https://github.com/MuhammadTopu?tab=repositories)
 
-## Latest Blog Posts
+## Cosmic Bulletin-(Latest Blog Posts)↓
 - [Mastering Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/solutions/5056886/kadanes-algorithm-on/)
 - [Building Scalable APIs with NestJS](https://www.linkedin.com/posts/kamranhossaintopu_apnacollege-fullstackwebdevelopment-activity-7128771470201131008-eQYY)
 - [My LeetCode Journey](https://leetcode.com/Kamran_Hossain_Topu/)
 
-## Let's Connect
+## Nebula Network-(Let's Connect)↓
 <p align="center">
   <a href="https://www.linkedin.com/in/kamranhossaintopu/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
