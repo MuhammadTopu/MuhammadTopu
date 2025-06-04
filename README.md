@@ -19,8 +19,10 @@
 ### ✨ Frontend Galaxy
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </div>
+
 
 ### 🪐 Backend Milky Way
 <div align="center">
@@ -34,7 +36,7 @@
 
 ### 🛠️ Dev Tools & Platforms
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,insomnia,hopscotch,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,insomnia,hoppscotch,linux" />
 </div>
 
 ### 📱 Mobile & Cross-Platform
