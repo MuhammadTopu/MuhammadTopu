@@ -18,7 +18,7 @@
 
 ### ✨ Frontend Galaxy
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs,gsap,framer" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,threejs" />
 </div>
 
 
