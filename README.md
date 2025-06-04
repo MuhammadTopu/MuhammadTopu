@@ -13,12 +13,12 @@
 
 ### 🚩 Core Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python,dart" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python" />
 </div>
 
 ### ✨ Frontend Galaxy
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,gsap,threejs,framer" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,gsap,threejs,framer_motion" />
 </div>
 
 ### 🪐 Backend Milky Way
