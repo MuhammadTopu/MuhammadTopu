@@ -13,7 +13,7 @@
 
 ### Originium-(Core Languages) 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c,python" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,c" />
 </div>
 
 ### Starlight Realm-(Frontend) 
