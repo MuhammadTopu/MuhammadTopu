@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,linux" />
 </div>
 
-### Interstellar Portal-(Android) 
+### Interstellar Portal-(Android)-Newbie
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </div>
