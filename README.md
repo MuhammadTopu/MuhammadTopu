@@ -50,9 +50,22 @@
 
 ## 🌌 Stellar Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTopu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<p align="center">
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadTopu&theme=algolia" alt="kamranhossaintopu" />
+ </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTopu&layout=compact&theme=radical)
+
+  <p align="center">
+<!-- Github stats -->
+   <img width="430" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadTopu&theme=algolia" />
+   </p>
+
+ <p align="center">
+ <!-- Top Languages Card -->
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadTopu&theme=algolia" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadTopu&theme=algolia" />
+
+</p>
 
 
 
